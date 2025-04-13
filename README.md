@@ -1,7 +1,3 @@
-# CMPT276S25_group24
-
-
-
 ## HOW TO BUILD
 "mvn clean install" while in Project/game (the same directory as the pom.xml)
 
